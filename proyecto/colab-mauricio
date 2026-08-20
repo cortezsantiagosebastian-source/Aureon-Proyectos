@@ -1,0 +1,36 @@
+[README.md](https://github.com/user-attachments/files/31284237/README.md)
+# AUREON × MAURICIO — Alianza Web3 / Trazabilidad Blockchain
+
+## Qué es esto
+Repositorio de contexto y entregables para la alianza exploratoria entre Aureon y Mauricio (Uruguay). **No es un cliente que factura** — es una relación de intercambio/mentoría con potencial comercial futuro, conocida a través de la comunidad Ethereum Uruguay.
+
+## Quién es Mauricio
+- 40 años, vive en un pueblo a ~50km de Montevideo.
+- Programador desde los 8 años. Vivió en Argentina (Salta, Tucumán), Chile y varias partes de Uruguay.
+- Proyecto base: sistema de trazabilidad blockchain, en preincubación en UTEC.
+- Expandiendo hacia dos verticales de producto: **miel premium** y **piedras preciosas** (Uruguay). Dejó a medio camino un ángulo previo de trazabilidad en ganadería.
+- Trabaja con una colaboradora de un pueblo cerca de Montevideo.
+- Postula a un fondo de una asociación de emprendedores de Uruguay (confirmar si es ANDE) — resultado esperado la semana del 17/8, para temas legales del proyecto.
+
+## Naturaleza de la relación
+No es sociedad 50/50. Es de aportes/mentoría — Mauricio comparte su mundo técnico (blockchain, infraestructura), posible relación comercial más adelante, sin estructura societaria por ahora.
+
+## Ángulo de mayor potencial
+Idea propuesta por el propio Mauricio: sistema de seguimiento de leads/compradores para exportadores de miel y piedras preciosas. Encaja directo con lo que Aureon ya resuelve (seguimiento de contactos que se enfrían sin proceso sistemático) — mismo patrón que Inmobiliarias, aplicado a otro rubro.
+
+## Estado actual
+- ✅ Primera llamada de alineación realizada (17/8).
+- ✅ Preguntas de diagnóstico guiadas enviadas (11 preguntas: legal/fondos, ventas, trazabilidad, presupuesto).
+- ⏳ Pendiente: respuestas de Mauricio → diagnóstico completo → propuesta/prototipo.
+
+## Estructura de carpetas
+```
+/diagnostico       → preguntas enviadas + respuestas cuando lleguen
+/propuestas        → material y prototipos que se le vayan mandando
+```
+
+## Reglas de esta alianza (heredadas de AUREON_MASTER_v6)
+- Ley Fundamental: nunca proponer solución sin diagnóstico completo.
+- Sin prueba social fabricada — ningún dato o resultado inventado.
+- Time-box: esto no reemplaza la prioridad de Experimento A (Inmobiliarias).
+- No registrar como "camino a primer cliente" en las métricas de negocio — es relación, no pipeline comercial.
